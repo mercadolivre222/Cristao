@@ -1,0 +1,15 @@
+{
+  "name": "playkids-cristao",
+  "version": "1.0.0",
+  "description": "Página de vendas PlayKids Cristão - 10 Jogos Bíblicos",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
